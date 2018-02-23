@@ -2,7 +2,7 @@
 
 
 // #1) Check if this array includes the name "John".
-const dragons = ['Tim', 'Johnathan', 'Sandy', 'Sarah'];
+const dragons = ['Timek', 'Johnathan', 'Sandy', 'Sarah'];
 
 
 // #2) Check if this array includes any name that has "John" inside of it. If it does, return that
